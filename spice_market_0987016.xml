@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+	
+  <row>
+    <manufacturer><![CDATA[FREDERIQUE CONSTANT]]></manufacturer>
+    <name_of_store><![CDATA[LAIKS]]></name_of_store>
+    <sku><![CDATA[FC-206MPWD1S6]]></sku>
+    <name><![CDATA[Frederique Constant, FC-206MPWD1S6, Slimline Moonphase, Ø30mm]]></name>
+    <url_to_product><![CDATA[http://laikswatches.lv/lv/product/frederique-constant-fc-206mpwd1s6-slimline-moonphase-30mm-rokas-pulkstenis/]]></url_to_product>
+    <categories><![CDATA[Default Category/Women's fashion/Accessories & Bags/Watches]]></categories>
+    <short_description><![CDATA[Frederique Constant, FC-206MPWD1S6, Slimline Moonphase, Ø30mm, Rokas pulkstenis]]></short_description>
+    <color></color>
+    <price>989.00</price>
+    <special_price></special_price>
+    <special_price_from_date></special_price_from_date>
+    <special_price_to_date></special_price_to_date>
+    <base_image><![CDATA[http://laikswatches.lv/media/images/items/0028/items-3419-4081.jpg]]></base_image>
+    <small_image><![CDATA[http://laikswatches.lv/media/images/items/0028//th3/items-3419-4081.jpg]]></small_image>
+    <thumbnail_image><![CDATA[http://laikswatches.lv/media/images/items/0028//th2/items-3419-4081.jpg]]></thumbnail_image>
+  </row>
+  
+  <row>
+    <manufacturer><![CDATA[ASTER]]></manufacturer>
+    <name_of_store><![CDATA[LAIKS]]></name_of_store>
+    <sku><![CDATA[KL122-5681C]]></sku>
+    <name><![CDATA[ASTER, KL122-5681C, Royal MIX, Kaklarota]]></name>
+    <url_to_product><![CDATA[http://laikswatches.lv/lv/product/aster-kl122-5681c-royal-mix-kaklarota/]]></url_to_product>
+    <categories><![CDATA[Default Category/Women's fashion/Jewellery]]></categories>
+    <short_description><![CDATA[ASTER, KL122-5681C, Royal MIX, Kaklarota]]></short_description>
+    <color>Sarkanais zelts</color>
+    <price>369.00</price>
+    <special_price>148.00</special_price>
+    <special_price_from_date>11.30.20</special_price_from_date>
+    <special_price_to_date>12.11.20</special_price_to_date>
+    <base_image><![CDATA[http://laikswatches.lv/media/images/items/0038/items-37813-32631.jpg]]></base_image>
+    <small_image><![CDATA[http://laikswatches.lv/media/images/items/0038//th3/items-37813-32631.jpg]]></small_image>
+    <thumbnail_image><![CDATA[http://laikswatches.lv/media/images/items/0038//th2/items-37813-32631.jpg]]></thumbnail_image>
+  </row>
+  
+  <row>
+    <manufacturer><![CDATA[ASTER]]></manufacturer>
+    <name_of_store><![CDATA[LAIKS]]></name_of_store>
+    <sku><![CDATA[KL122-5681Hr]]></sku>
+    <name><![CDATA[ASTER, KL122-5681Hr, Royal MIX, Kaklarota]]></name>
+    <url_to_product><![CDATA[http://laikswatches.lv/lv/product/aster-kl122-5681hr-royal-mix-kaklarota/]]></url_to_product>
+    <categories><![CDATA[Default Category/Women's fashion/Jewellery]]></categories>
+    <short_description><![CDATA[ASTER, KL122-5681Hr, Royal MIX, Kaklarota]]></short_description>
+    <color>Rose Gold</color>
+    <price>389.00</price>
+    <special_price>156.00</special_price>
+    <special_price_from_date>11.30.20</special_price_from_date>
+    <special_price_to_date>12.11.20</special_price_to_date>
+    <base_image><![CDATA[http://laikswatches.lv/media/images/items/0038/items-37814-32632.jpg]]></base_image>
+    <small_image><![CDATA[http://laikswatches.lv/media/images/items/0038//th3/items-37814-32632.jpg]]></small_image>
+    <thumbnail_image><![CDATA[http://laikswatches.lv/media/images/items/0038//th2/items-37814-32632.jpg]]></thumbnail_image>
+   </row>
+  
+</root>
